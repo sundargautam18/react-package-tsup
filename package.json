@@ -21,6 +21,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "emblics-endolymph": "^1.0.0"
+    "emblics-endolymph": "^1.0.0",
+    "nepali-date-converter": "^3.3.3"
   }
 }
